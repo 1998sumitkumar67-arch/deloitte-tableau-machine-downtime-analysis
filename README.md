@@ -56,7 +56,7 @@ images/dashboard.png
 Example:
 
 ```markdown
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](TASK_1.png)
 ```
 
 ---
@@ -68,8 +68,8 @@ deloitte-tableau-machine-downtime-analysis/
 │
 ├── README.md
 ├── LICENSE
-└── images/
-    └── dashboard.png
+└── TASK_1.png
+└── TASK-1.png
 ```
 
 ---
