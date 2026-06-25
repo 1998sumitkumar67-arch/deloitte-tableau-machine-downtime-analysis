@@ -47,16 +47,7 @@ Daikibo, a manufacturing company, collected telemetry data from machines across 
 
 ## 🖼️ Dashboard Preview
 
-> Add your dashboard screenshot inside the `images` folder and update the filename if needed.
-
-```text
-images/dashboard.png
-```
-
-Example:
-
-```markdown
-![Dashboard Preview](TASK_1.png)
+![Dashboard Preview](TASK-1.png)
 ```
 
 ---
