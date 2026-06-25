@@ -47,7 +47,7 @@ Daikibo, a manufacturing company, collected telemetry data from machines across 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](TASK-1.png)
+![Dashboard Preview](TASK_1.png)
 ```
 
 ---
