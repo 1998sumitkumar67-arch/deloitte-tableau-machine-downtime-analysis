@@ -1,75 +1,121 @@
-# Deloitte Tableau Machine Downtime Analysis
+# 📊 Deloitte Tableau Machine Downtime Analysis
 
-## Overview
-
-This project analyzes machine telemetry data from four Daikibo factories using Tableau. The goal is to identify the factory with the highest machine downtime and determine which machine types contribute most to downtime.
+An interactive Tableau dashboard developed as part of the **Deloitte Data Analytics Virtual Internship**. This project analyzes machine telemetry data from multiple manufacturing factories to identify downtime patterns and support operational decision-making.
 
 ---
 
-## Business Problem
+## 📌 Project Overview
 
-Daikibo collected telemetry data from manufacturing equipment to answer:
-
-1. Which factory has the highest machine downtime?
-2. Which machine types contribute most to downtime in that factory?
+Daikibo, a manufacturing company, collected telemetry data from machines across four factories during **May 2021**. The objective was to analyze machine downtime and answer key business questions using Tableau.
 
 ---
 
-## Tools Used
+## 🎯 Business Questions
+
+- Which factory experienced the highest machine downtime?
+- Which machine types contributed the most downtime in that factory?
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Tableau
 - JSON
 - Data Visualization
-- Dashboard Actions
+- Interactive Dashboard
 - Calculated Fields
 
 ---
 
-## Dataset
+## 📈 Dashboard Features
 
-- Telemetry Data
-- May 2021
-- Four factories
-- Nine machine types
-- Messages every 10 minutes
-
----
-
-## Dashboard Features
-
-- Downtime by Factory
-- Downtime by Device Type
-- Interactive Dashboard Filters
-- Business-friendly Visualization
+- Interactive **Down Time per Factory** analysis
+- Dynamic **Down Time per Device Type** visualization
+- Dashboard filter actions
+- Business-friendly dashboard design
+- Automated downtime calculation using a calculated field
 
 ---
 
-## Key Findings
+## 📊 Key Insights
 
-- Highest Downtime Factory:
-  - Seiko (Japan)
-
-- Highest Downtime Device:
-  - LaserWelder
+- **Factory with Highest Downtime:** Seiko (Japan)
+- **Highest Downtime Device:** LaserWelder
+- Dashboard enables interactive analysis by selecting any factory to view its corresponding device downtime.
 
 ---
 
-## Dashboard
+## 🖼️ Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+> Add your dashboard screenshot inside the `images` folder and update the filename if needed.
+
+```text
+images/dashboard.png
+```
+
+Example:
+
+```markdown
+![Dashboard Preview](images/dashboard.png)
+```
 
 ---
 
-## Skills Demonstrated
+## 📂 Repository Structure
 
-- JSON Data Import
-- Tableau Calculated Fields
-- Interactive Dashboards
-- Business Analysis
+```
+deloitte-tableau-machine-downtime-analysis/
+│
+├── README.md
+├── LICENSE
+└── images/
+    └── dashboard.png
+```
+
+---
+
+## 📚 Skills Demonstrated
+
+- Data Analysis
+- Business Intelligence
+- Tableau Dashboard Development
+- Interactive Data Visualization
+- JSON Data Handling
+- Calculated Fields
 - Manufacturing Analytics
+- Business Problem Solving
 
 ---
 
-## Author
+## ⚠️ Dataset Notice
 
-Sumit Kumar
+The dataset used in this project was provided as part of the **Deloitte Data Analytics Virtual Internship**.
+
+To respect the original content and licensing of the internship materials, the dataset is **not included** in this repository. This repository shares only the dashboard, analysis, and project documentation for educational and portfolio purposes.
+
+---
+
+## 🚀 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Importing and analyzing JSON datasets in Tableau
+- Creating calculated fields for business metrics
+- Building interactive dashboards
+- Applying dashboard actions and filters
+- Translating business requirements into actionable insights
+
+---
+
+## 👨‍💻 Author
+
+**Sumit Kumar**
+
+- GitHub: https://github.com/1998sumitkumar67-arch
+- LinkedIn: https://www.linkedin.com/in/sumit-kumar-35b55437a
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
