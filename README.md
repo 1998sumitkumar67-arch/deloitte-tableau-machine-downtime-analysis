@@ -104,9 +104,3 @@ Through this project, I gained practical experience in:
 
 - GitHub: https://github.com/1998sumitkumar67-arch
 - LinkedIn: https://www.linkedin.com/in/sumit-kumar-35b55437a
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
